@@ -4,7 +4,8 @@
  `**************************************************/
 
 body {
-    background-color: powderblue;
+    align-content: center
+    background-color: e5e5e5;
     font-family: verdana;
     font-size: 100%;
 }
@@ -24,7 +25,7 @@ p {
     color: red;
     font-family: verdana;
     font-size: 130%;
-    border: 3px solid orange;
+    border: 3px solid rgb(0, 255, 106);
     padding: 30px blue;
 }
 
